@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-<img align="right" height="230" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
+<img align="right" height="230" src="imagem_github.png">
 
 Cursando o terceiro semestre de Redes de Computadores no SENAI com foco em Backend e desenvolvimento WEB, além disso, possuo experiência prática com nuvem AWS e Azure.
 
