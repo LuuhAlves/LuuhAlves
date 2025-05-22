@@ -12,7 +12,6 @@
 
 Cursando o terceiro semestre de Redes de Computadores no SENAI com foco em Backend e desenvolvimento WEB, além disso, possuo experiência prática com nuvem AWS e Azure.
 
-Conecte-se comigo!
 
 <br><br><br><br>
 
@@ -45,4 +44,37 @@ Conecte-se comigo!
  | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
  | ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray) | AWS Academy Cloud Foundations |
 
- 
+
+## Conquistas 🏆
+- Voluntario no grupo de jovens EJC
+- Voluntario na equipe da chácara das flores
+
+
+## Projetos
+- Casa Inteligente voltada aos PCDs
+- Monitoramento On-premisses com o uso de Zabbix & Grafana (AlertFlow)
+- Infraestrutura em nuvem utilizando AWS e Azure (TechWave)
+- Cabeamento estruturado baseado em empresas reais
+- Infraestrutura de Redes no Packet Tracer
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuuhAlves&theme=modern-lilac2&hide_border=true&short_numbers=true">
+</p>
+
+
+## Conecte-se comigo! 🖥
+
+<p align="center">
+  <a href ="https://www.linkedin.com/in/luanaasilvaa/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
+
+
+<h4 align="center">
+  Obrigado por visitar!
+  <br>
+  <br>
+  <div>
+   <img src="https://komarev.com/ghpvc/?username=LuuhAlves">
+  </div>
+</h4>
